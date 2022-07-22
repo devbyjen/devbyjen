@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Jennie! I'm a developer with 3 years of work experience, looking to dive back into a software career. Well, a slow dive. Ideally, I'll continue doing freelance/contract work, or part-time remote work, until fall 2024.
+- 
+- 👀 I’m interested in automating systems and processes to make people's lives easier. My most recent project was a scoring sheet for a math test with challenging scoring rules. It has already saved local teachers hundreds of hours of tedious, difficult work.
+- 
+- 🌱 I’m currently learning full-stack, react. Really enjoying python.
+- 
+- 💞️ I’m looking to collaborate on anything interesting!
+- 
+- 📫 How to reach me: [github-username]@gmail.com (no spam, please.)
